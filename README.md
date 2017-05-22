@@ -9,3 +9,4 @@
 ## Avi Lecture Videos
 - [Playlister Lab](https://www.youtube.com/watch?v=LRX0aZj9v7Y)
 - [SQL](https://www.youtube.com/watch?v=fmYVLDLlx3g)
+- [Joins & ORMs](https://www.youtube.com/watch?v=ZfS1EEF5GWA)
